@@ -1,7 +1,8 @@
-### Instructions
+# Transformer for Natural Language Processing
+## Instructions
 
 This is a README file that introduces how to run the project. 
-#### Prerequisites
+### Prerequisites
 ```
 torch
 numpy
@@ -9,7 +10,7 @@ matplotlib
 nltk
 transformers # BertTokenizer
 ```
-#### Commands
+### Commands
 ```
 # Part 1: Encoder Trained With Classifier
 python main.py --part 1
